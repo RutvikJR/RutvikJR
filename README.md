@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **React Js, React based libraries and frameworks, Tailwind, Suoabase, Node Js**
+- 🔭 I’m currently working on **React Js, React based libraries and frameworks, Tailwind, Supabase, Node Js**
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/rutvik-rachhadiya-8aa168149/)
   - <rachhadiyarutvik09040@gmail.com>
